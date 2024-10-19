@@ -1,5 +1,5 @@
 # EFI_T470P_OC
-## T470P黑苹果EFI文件，OpenCore version 0.9.8，支持macOS 14.4 Sonoma
+## T470P黑苹果EFI文件，OpenCore version 1.0.2，支持macOS 15.1 Sequoia
 - 机型：Lenovo T470p 20J6A01ACD，CPU：Intel i7 7700HQ，核显：HD 630
 - 加装了M.2 2242 SSD 512GB 建兴T11
 - 加装了三星8G内存
@@ -31,6 +31,14 @@ https://github.com/gxf9988776/efi_t470p_oc
 - 各种驱动最新
 - 在线自动升级
 - 支持Sonoma 14.4
+
+## 2024-10-19更新
+
+- 升级OC 1.0.2
+- 蓝牙功能修复
+- 各种驱动最新
+- 在线自动升级
+- 支持Sequoia 15.1
 
 ## 注意事项
 
